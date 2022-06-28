@@ -58,7 +58,7 @@ a:hover {
  width: 100%;
 height: 700px;
 margin-top: 1px;
-background-image: url("images/background image.png");
+background-image: url("./images/background image.png");
 /* background-image: url("C:/Users/HP/Desktop/web development/css-my site/images/download.jpg"); */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
